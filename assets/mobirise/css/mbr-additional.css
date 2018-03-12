@@ -1486,3 +1486,31 @@ body {
 .cid-qLVdXykjR5 blockquote {
   color: #767676;
 }
+.cid-qM4PAoW5mS {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/maxresdefault-3-1280x720.jpg");
+}
+.cid-qM0inb1ywz {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-qM0inb1ywz .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qM0inb1ywz .section-text {
+  padding: 2rem 0;
+}
+.cid-qM0inb1ywz .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qM0inb1ywz .inner-container {
+    width: 100% !important;
+  }
+}
